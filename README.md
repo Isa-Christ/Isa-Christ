@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./papillon.svg" width="100%" alt="Papillon en pixels" />
+</p>
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:23377B,100:2E8BC0&height=190&section=header&text=Isabelle%20Christ%20MAGNE&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Embarqu%C3%A9%20%E2%80%A2%20IoT%20%E2%80%A2%20Robotique&descSize=18&descAlignY=58" width="100%" alt="Isabelle Christ MAGNE" />
@@ -8,11 +12,11 @@
 
 ### 👩🏾‍💻 À propos
 
-- 🎓 Élève ingénieure en 2A à l'**ENSEA** (majeure Électronique et Informatique), en double diplôme avec l'**École Nationale Supérieure Polytechnique de Yaoundé** (génie informatique).
+- 🎓 Élève ingénieure à l'**ENSEA** , en double diplôme avec l'**École Nationale Supérieure Polytechnique de Yaoundé** (génie informatique).
 - 🔌 Mes projets vont de la carte électronique à l'application : schémas et PCB sous Proteus, microcontrôleurs, LoRaWAN, ROS2, puis applications web en Java ou en Next.js.
 - 🤖 En ce moment : un robot mobile autonome sous ROS2 (STM32, LiDAR, Raspberry Pi 5) pour le projet annuel de l'ENSEA.
 - 🔎 **Je cherche un stage de 3 à 5 mois à partir d'avril 2027** en systèmes embarqués, IoT, robotique ou développement logiciel.
-- 🎤 Hors du labo : du slam, devant plus de 100 personnes.
+- 🎤 Hors du labo : du slam, des débats et l'art oratoire en général.
 
 ### 🛠️ Outils
 
