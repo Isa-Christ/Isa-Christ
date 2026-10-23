@@ -1,22 +1,13 @@
 <p align="center">
-  <img src="./papillon.svg" width="100%" alt="Papillon en pixels" />
+  <img src="./banniere.svg" width="100%" alt="Du schéma à la carte soudée, puis au code" />
 </p>
 
-<div align="center">
+### 👋🏾 Salut, moi c'est Isabelle !
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:23377B,100:2E8BC0&height=190&section=header&text=Isabelle%20Christ%20MAGNE&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Embarqu%C3%A9%20%E2%80%A2%20IoT%20%E2%80%A2%20Robotique&descSize=18&descAlignY=58" width="100%" alt="Isabelle Christ MAGNE" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=23377B&center=true&vCenter=true&width=640&lines=Du+sch%C3%A9ma+%C3%A0+la+carte+soud%C3%A9e%2C+puis+au+code;LoRaWAN+%E2%80%A2+STM32+%E2%80%A2+Arduino+%E2%80%A2+ROS2;Stage+de+3+%C3%A0+5+mois+d%C3%A8s+avril+2027" alt="Du schéma à la carte soudée, puis au code" />
-
-</div>
-
-### 👩🏾‍💻 À propos
-
-- 🎓 Élève ingénieure à l'**ENSEA** , en double diplôme avec l'**École Nationale Supérieure Polytechnique de Yaoundé** (génie informatique).
-- 🔌 Mes projets vont de la carte électronique à l'application : schémas et PCB sous Proteus, microcontrôleurs, LoRaWAN, ROS2, puis applications web en Java ou en Next.js.
-- 🤖 En ce moment : un robot mobile autonome sous ROS2 (STM32, LiDAR, Raspberry Pi 5) pour le projet annuel de l'ENSEA.
-- 🔎 **Je cherche un stage de 3 à 5 mois à partir d'avril 2027** en systèmes embarqués, IoT, robotique ou développement logiciel.
-- 🎤 Hors du labo : du slam, des débats et l'art oratoire en général.
+- 🔌 J'adore voir un projet passer du schéma à la carte soudée, puis au code : PCB sous Proteus, microcontrôleurs, LoRaWAN, ROS2, et des applications web pour exploiter les données.
+- 🤖 En ce moment : un robot mobile autonome sous ROS2, avec une STM32, un LiDAR et une Raspberry Pi 5.
+- 💧 Mon projet préféré : WaterPaid, un compteur d'eau prépayé connecté en LoRaWAN.
+- 🎤 Hors du labo : du slam, devant plus de 100 personnes, et beaucoup de débats.
 
 ### 🛠️ Outils
 
@@ -118,5 +109,3 @@ Application de bureau : concerts, conférences, participants, organisateurs, not
 </p>
 
 <p align="center">🇫🇷 Français courant • 🇬🇧 Anglais intermédiaire</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E8BC0,100:23377B&height=110&section=footer" width="100%" alt="" />
